@@ -28,8 +28,8 @@ Real-time Processing: Frame-by-frame detection and visualization using OpenCV.
 
 Gesture Analysis: Logic to determine finger openness by comparing x or y coordinates.
 
-![Screenshot 2025-04-27 at 2 04 29 AM](https://github.com/user-attachments/assets/212732c5-53c3-4b9e-b4c3-399df1a3dd24)
+## ![Screenshot 2025-04-27 at 2 04 29 AM](https://github.com/user-attachments/assets/212732c5-53c3-4b9e-b4c3-399df1a3dd24)
 
 
-🎥 Watch Demo Video: [Click here](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_artificialintelligence-machinelearning-computervision-activity-7237462540744564736-0FuA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
+## 🎥 Watch Demo Video: [Click here](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_artificialintelligence-machinelearning-computervision-activity-7237462540744564736-0FuA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
 
