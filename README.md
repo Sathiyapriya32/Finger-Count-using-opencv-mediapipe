@@ -19,7 +19,7 @@ Install them using:
 
 ```bash
 
-📚 TECHNIQUES USED 
+## 📚 TECHNIQUES USED 
 Hand Detection: Using MediaPipe's Hands solution to detect hand landmarks.
 
 Landmark Positioning: Comparing fingertip landmarks with MCP (Metacarpophalangeal) joint landmarks.
