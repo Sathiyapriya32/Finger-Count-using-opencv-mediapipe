@@ -15,9 +15,11 @@ The following Python libraries are used:
 - `opencv-python`
 - `mediapipe`
 
-Install them using:
-
-```bash
+> 📦 **Installation**  
+> Install the required Python libraries:
+> 
+> ```bash
+> pip install opencv-python mediapipe
 
 ## 📚 TECHNIQUES USED 
 Hand Detection: Using MediaPipe's Hands solution to detect hand landmarks.
